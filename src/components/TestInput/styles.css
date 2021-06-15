@@ -1,0 +1,15 @@
+.container-search {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-search  label {
+    margin-bottom: 5px;
+}
+
+.container-search  input {
+    max-width: 40%;
+    padding: 4px;
+    border-radius: 4px;
+    border: 2px solid burlywood;
+}
